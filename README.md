@@ -7,3 +7,7 @@ In this approach, we use a traditional NLP method by fine-tuning the **XML-RoBER
 For comparison, our project also explores two additional approaches:
 - Using layout-aware models like **LiLT** and **LayoutLMv3**
 - Using **prompt engineering** with generative models such as **Qwen2** and **Qwen2.5-VL**
+
+If you find this issue 'Invalid notebook', you can view the notebook here :
+[model](https://colab.research.google.com/drive/1UiZjYlzTtcjcwv4yUUTx-Ltv9mZmIg3e?usp=sharing)
+[main](https://colab.research.google.com/drive/1jpnG6asnVrB33Vb-_470ui924raIVVsR?usp=sharing)
